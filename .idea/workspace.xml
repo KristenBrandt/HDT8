@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9ce246-b73a-46ba-bb9a-261cf4885dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VectorHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorHeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDT8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HDT8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hojadetrabajo" beforeDir="false" afterPath="$PROJECT_DIR$/../Hojadetrabajo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VectorHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding>
                 <element signature="e#195#196#0" expanded="true" />
                 <element signature="e#222#223#0" expanded="true" />
@@ -32,11 +31,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VectorHeapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Paciente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="135">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="e#342#343#0" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
@@ -50,17 +58,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="30">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+            <state relative-caret-position="242">
+              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,21 +83,23 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Vector.java" />
         <option value="$PROJECT_DIR$/src/PriotityQueue.java" />
-        <option value="$PROJECT_DIR$/src/PriorityQueue.java" />
-        <option value="$PROJECT_DIR$/src/VectorHeap.java" />
         <option value="$PROJECT_DIR$/src/Paciente.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/PriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/VectorHeap.java" />
+        <option value="$PROJECT_DIR$/src/VectorHeapTest.java" />
       </list>
     </option>
   </component>
@@ -124,9 +134,24 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553905269175" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553911119449" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last.edited.regexp" value="axc" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.VectorHeapTest.remove">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HDT8" />
@@ -148,8 +173,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VectorHeapTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDT8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VectorHeapTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorHeapTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDT8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VectorHeapTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VectorHeapTest.remove" />
+        <item itemvalue="JUnit.VectorHeapTest.add" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -167,8 +214,26 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="VectorHeapTest_add - 2019.03.29 at 19h 53m 54s.xml">
+      <configuration name="VectorHeapTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHeapTest_add - 2019.03.29 at 19h 54m 34s.xml">
+      <configuration name="VectorHeapTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHeapTest_add - 2019.03.29 at 19h 55m 54s.xml">
+      <configuration name="VectorHeapTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHeapTest_add - 2019.03.29 at 19h 56m 11s.xml">
+      <configuration name="VectorHeapTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHeapTest_add - 2019.03.29 at 19h 57m 50s.xml">
+      <configuration name="VectorHeapTest.add" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,10 +298,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Vector.java" />
     <entry file="file://$PROJECT_DIR$/src/PriotityQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding>
             <element signature="e#195#196#0" expanded="true" />
             <element signature="e#222#223#0" expanded="true" />
@@ -244,10 +319,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Paciente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
           <folding>
             <element signature="e#342#343#0" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
@@ -257,20 +339,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PriorityQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/VectorHeapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
         </state>
       </provider>
     </entry>
